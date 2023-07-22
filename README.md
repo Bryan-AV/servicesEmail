@@ -1,7 +1,8 @@
 # servicesEmail
 
-![ecommerceEmail](https://github.com/Bryan-AV/servicesEmail/assets/61765079/f83d0c23-ef51-47ae-ad4a-e0141d68af0a)
+![portfolioEmail](https://github.com/Bryan-AV/servicesEmail/assets/61765079/9eb8300a-d4b8-41a9-98be-4aae80ed1b0a)
 
-Email design project for an e-commerce sneaker site.
+
+Email design project for a portfolio/services information.
 
 https://bryan-av.github.io/vibesEmail/
