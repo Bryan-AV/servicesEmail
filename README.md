@@ -5,4 +5,4 @@
 
 Email design project for a portfolio/services information.
 
-https://bryan-av.github.io/vibesEmail/
+https://bryan-av.github.io/servicesEmail/
